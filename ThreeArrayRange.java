@@ -1,3 +1,4 @@
+// good
 import java.util.Arrays;
 public class ThreeArrayRange {
     public static void main(String[] args) {
